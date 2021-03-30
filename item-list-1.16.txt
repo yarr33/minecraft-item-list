@@ -250,15 +250,11 @@ minecraft:dark_prismarine
 minecraft:dark_prismarine_slab
 minecraft:dark_prismarine_stairs
 minecraft:daylight_detector
-Dead Brain Coral
 minecraft:dead_brain_coral
 minecraft:dead_brain_coral_block
-Dead Brain Coral Fan
 minecraft:dead_brain_coral_fan
-Dead Bubble Coral
 minecraft:dead_bubble_coral
 minecraft:dead_bubble_coral_block
-Dead Bubble Coral Fan
 minecraft:dead_bubble_coral_fan
 minecraft:dead_bush
 minecraft:dead_fire_coral
